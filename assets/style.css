@@ -697,9 +697,9 @@ select {
 
   .btn__white2{
     padding:1px;
-    max-width:110px;
-    max-height:50px;
-    font-size :9px;
+    max-width:100px;
+    max-height:40px;
+    font-size :8px;
     
   }
 }
@@ -2923,16 +2923,16 @@ width: 100%;
   
 
 
-padding: 16px;
-padding-right: 18px;
-padding-left: 18px;
+padding: 18px;
+padding-right: 10px;
+padding-left: 10px;
 text-align: center;
 text-decoration: none;
 font-family: 'Poppins';
 font-style: normal;
 font-weight: 500;
-font-size: 16px;
-line-height: 21px;
+font-size: 12px;
+line-height: 30px;
 /* identical to box height, or 131% */
 
 letter-spacing: -0.32px;
@@ -2999,7 +2999,7 @@ background: #26B464;
     color:white;
     text-decoration:none;
     
-    padding-top:14px;padding-bottom:14px;padding-left:26px;padding-right:26px ;background-color:transparent;color:white; border: 1px solid silver;
+    padding-top:14px;padding-bottom:14px;padding-left:16px;padding-right:16px ;background-color:transparent;color:white; border: 1px solid silver;
   }
   .btn__white2:hover{
     
